@@ -1,3 +1,6 @@
+<h1 align='center'>Random Cat Gifs :cat:</h1>
+
+<!--
 ![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/Programing-Gifs?style=social)
 
 <h1 align='center'> Programing Gifs 👨🏼‍💻</h1>
@@ -22,3 +25,4 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 <br><br>
 
 ### `You can contribute to this  great project by adding more gifs in the static/images folder`
+-->
