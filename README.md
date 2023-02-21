@@ -24,7 +24,7 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 |---|
 | <a href='https://github.com/samadpls/Programing-Gifs'><img align='right' src='https://wicked-top-coat-pike.cyclic.app/' widht=100% alt='samadpls/Programming-Gifs'></a> |
 
+-->
 <br><br>
 
 ### `You can contribute to this  great project by adding more gifs in the static/images folder`
--->
