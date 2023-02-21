@@ -1,5 +1,7 @@
 <h1 align='center'>Random Cat Gifs :cat:</h1>
 
+Random-cat-gifs is a web app that displays different cute cat gifs at random whenever refreshed.
+
 <!--
 ![GitHub Repo stars](https://img.shields.io/github/stars/samadpls/Programing-Gifs?style=social)
 
